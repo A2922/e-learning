@@ -88,16 +88,15 @@ I want to learn more about "CSS Grid" and "Bootstrap" and also want to learn mor
 
 ## Author
 
-- Github Profile Link - [Saurabh13042004](https://github.com/Saurabh13042004)
-- Linkdin - [@saurabh-shukla](https://www.linkedin.com/in/saurabh-shukla-0b45b3224/)
-- Instagram - [@saurabh._shukla._](https://www.instragram.com/saurabh._shukla._ )
+ - Github Profile Link - [https://github.com/A2922],
+- Linkdin -     (https://www.linkedin.com/in/ankit-sharma-6bb5651b7/),
 
 
 
 ## Acknowledgments
 
 
-I would like to thanks Dribble for providing me the design of the website what a great design it was special thanks to Nasim who made this design. 
+
 I know there are many things that I can improve in this project , but I am happy with the result. If you have any improvements in code feel free to give pull request.
 
 Thanks for reading this far, if you have any suggestions or feedback, please let me know in the comments below. I would love to hear from you.
